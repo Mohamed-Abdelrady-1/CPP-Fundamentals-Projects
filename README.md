@@ -12,7 +12,7 @@ A program that takes student grades as input and generates a performance report.
 ### 2. The Math Tool
 A multi-functional calculator tool.
 * **Features:** Checks for Prime numbers, calculates Factorials, and Sums digits.
-* **Concepts:** Switch menus, Do-While loops, Complex Algorithms, Input Validation.
+* **Concepts:** Switch menus, Do-While loops, Complex Algorithms, and Input Validation.
 
 ### 3. Secure ATM System
 A simulation of a banking ATM interface with security features.
@@ -22,5 +22,10 @@ A simulation of a banking ATM interface with security features.
     * **Validation:** Prevents negative deposits or overdraft withdrawals.
 * **Concepts:** Reference Parameters, Enums, Modular Programming, Business Logic Implementation.
 
+### 4. File Creator Tool (Bonus Project) 
+A utility tool to automate file creation with custom naming patterns.
+* **Features:** Bulk file creation, Zero-padding numbering (e.g., 001, 002), Existence check.
+* **Concepts:** File I/O (`fstream`), String Manipulation, File System interaction.
 ---
 *Developed by [Mohamed Abdelrady] - 2025*
+
