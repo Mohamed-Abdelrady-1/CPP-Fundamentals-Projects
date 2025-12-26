@@ -27,5 +27,6 @@ A utility tool to automate file creation with custom naming patterns.
 * **Features:** Bulk file creation, Zero-padding numbering (e.g., 001, 002), Existence check.
 * **Concepts:** File I/O (`fstream`), String Manipulation, File System interaction.
 ---
-*Developed by [Mohamed Abdelrady] - 2025*
+*Developed by Mohamed Abdelrady - 2025*
+
 
