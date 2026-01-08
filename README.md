@@ -13,13 +13,13 @@ These projects demonstrate my understanding of **structured programming**, **log
 A program that takes student grades as input and generates a performance report.
 * **Features:** Calculates average, max/min grades, and counts passed/failed subjects.
 * **Concepts:** `Arrays`, `Loops`, `Structs`, `Aggregate Functions`.
-* **Status:** [![Completed](https://img.shields.io/badge/Status-Completed-success?style=flat-square)](./)
+* **Status:** [![Completed](https://img.shields.io/badge/Status-Completed-success?style=flat-square)](./01_Grade_Analyzer)
 
 ### 2. The Math Tool
 A multi-functional calculator tool.
 * **Features:** Checks for Prime numbers, calculates Factorials, and Sums digits.
 * **Concepts:** `Switch Menus`, `Do-While Loops`, `Complex Algorithms`, `Input Validation`.
-* **Status:** [![Completed](https://img.shields.io/badge/Status-Completed-success?style=flat-square)](./)
+* **Status:** [![Completed](https://img.shields.io/badge/Status-Completed-success?style=flat-square)](./02_Math_Number_Tool)
 
 ### 3. Secure ATM System
 A simulation of a banking ATM interface with security features.
@@ -28,13 +28,13 @@ A simulation of a banking ATM interface with security features.
     * **Balance Management:** Real-time updates using Pass by Reference.
     * **Validation:** Prevents negative deposits or overdraft withdrawals.
 * **Concepts:** `Reference Parameters`, `Enums`, `Modular Programming`, `Business Logic`.
-* **Status:** [![Completed](https://img.shields.io/badge/Status-Completed-success?style=flat-square)](./)
+* **Status:** [![Completed](https://img.shields.io/badge/Status-Completed-success?style=flat-square)](./03_ATM_System)
 
 ### 4. File Creator Tool (Bonus Project)
 A utility tool to automate file creation with custom naming patterns.
 * **Features:** Bulk file creation, Zero-padding numbering (e.g., 001, 002), Existence check.
 * **Concepts:** `File I/O (fstream)`, `String Manipulation`, `File System Interaction`.
-* **Status:** [![Completed](https://img.shields.io/badge/Status-Completed-success?style=flat-square)](./)
+* **Status:** [![Completed](https://img.shields.io/badge/Status-Completed-success?style=flat-square)](./04_Advanced_File_Creator)
 
 ---
 
@@ -45,3 +45,4 @@ A utility tool to automate file creation with custom naming patterns.
 
 ---
 **Developed by Mohamed Abdelrady - 2025**
+
