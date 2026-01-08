@@ -7,7 +7,7 @@
 This repository contains my capstone projects for the **C++ Fundamentals Level 1 Course**.
 These projects demonstrate my understanding of **structured programming**, **logic building**, and **memory management**.
 
-## 📂 Projects Overview
+## Projects Overview
 
 ### 1. Grade Analyzer System
 A program that takes student grades as input and generates a performance report.
@@ -38,11 +38,12 @@ A utility tool to automate file creation with custom naming patterns.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 * **Language:** C++
 * **IDE:** Visual Studio
 * **Focus:** Logic Building & System Simulation.
 
 ---
 **Developed by Mohamed Abdelrady - 2025**
+
 
